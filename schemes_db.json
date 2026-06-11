@@ -1,0 +1,111 @@
+[
+  {
+    "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "description": "Income support of Rs. 6000 per year in three equal installments to all land holding farmer families.",
+    "eligibility_criteria": [
+      "Must be a land-holding farmer family.",
+      "Must be a citizen of India."
+    ],
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "Land Ownership Documents"
+    ]
+  },
+  {
+    "scheme_name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)",
+    "description": "Health cover of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization.",
+    "eligibility_criteria": [
+      "Based on the deprivation and occupational criteria of the Socio-Economic Caste Census 2011 (SECC 2011).",
+      "Belongs to poor and vulnerable families."
+    ],
+    "documents_required": [
+      "Aadhaar Card or Ration Card",
+      "PMJAY e-card (if already issued) or PM Letter"
+    ]
+  },
+  {
+    "scheme_name": "Pradhan Mantri Awas Yojana - Gramin (PMAY-G)",
+    "description": "Provides financial assistance for the construction of a pucca house to all houseless and households living in dilapidated houses in rural areas.",
+    "eligibility_criteria": [
+      "Houseless households.",
+      "Households with zero, one or two room houses with kutcha wall and kutcha roof.",
+      "Identified through SECC 2011 parameters."
+    ],
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details",
+      "MGNREGA Job Card (if applicable)",
+      "Swachh Bharat Mission Number"
+    ]
+  },
+  {
+    "scheme_name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "description": "Provides at least 100 days of guaranteed wage employment in a financial year to every rural household whose adult members volunteer to do unskilled manual work.",
+    "eligibility_criteria": [
+      "Must be a citizen of India.",
+      "Job seeker must have completed 18 years of age at the time of application.",
+      "Must reside in a rural area."
+    ],
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank/Post Office Account Details",
+      "Photograph"
+    ]
+  },
+  {
+    "scheme_name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "description": "Provides deposit-free LPG connections to adult women of poor households.",
+    "eligibility_criteria": [
+      "Applicant must be a woman above 18 years of age.",
+      "Must belong to a BPL (Below Poverty Line) household or specific categories like SC/ST, PMAY-G, AAY, etc.",
+      "No other LPG connection in the household."
+    ],
+    "documents_required": [
+      "Aadhaar Card (of applicant and adult family members)",
+      "Ration Card or other state-issued family document",
+      "Bank Account Details"
+    ]
+  },
+  {
+    "scheme_name": "Sukanya Samriddhi Yojana (SSY)",
+    "description": "A small deposit scheme for the girl child launched as part of the 'Beti Bachao Beti Padhao' campaign.",
+    "eligibility_criteria": [
+      "Parents or legal guardians can open an account in the name of a girl child.",
+      "Girl child must be below 10 years of age.",
+      "Maximum of two accounts per family (one for each girl child)."
+    ],
+    "documents_required": [
+      "Birth Certificate of the girl child",
+      "Identity Proof of the parent/guardian (Aadhaar/PAN)",
+      "Address Proof of the parent/guardian"
+    ]
+  },
+  {
+    "scheme_name": "Atal Pension Yojana (APY)",
+    "description": "A pension scheme focused mainly on the unorganized sector to provide a guaranteed minimum pension of Rs. 1,000 to Rs. 5,000 per month.",
+    "eligibility_criteria": [
+      "Must be a citizen of India.",
+      "Age must be between 18 and 40 years.",
+      "Must have a savings bank account/post office savings bank account."
+    ],
+    "documents_required": [
+      "Aadhaar Card",
+      "Active Bank Account Details",
+      "Mobile Number"
+    ]
+  },
+  {
+    "scheme_name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "description": "A one-year accidental death and disability insurance scheme, renewable from year to year.",
+    "eligibility_criteria": [
+      "Age must be between 18 and 70 years.",
+      "Must have a bank account.",
+      "Consent for auto-debit of premium (Rs. 20 per year)."
+    ],
+    "documents_required": [
+      "Aadhaar Card",
+      "Bank Account Details"
+    ]
+  }
+]
