@@ -46,7 +46,6 @@ generation_config = {
   "temperature": 0.0, # Zero temperature to prevent hallucination
   "top_p": 0.95,
   "top_k": 64,
-  "max_output_tokens": 800, # Increased to prevent text cutting off
 }
 
 safety_settings = [
