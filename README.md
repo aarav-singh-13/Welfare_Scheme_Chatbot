@@ -44,10 +44,10 @@ ngrok http 8000
 *Copy the `https://xxxx.ngrok-free.app` URL.*
 
 ### 5. Configure Twilio Sandbox
-1. Go to your Twilio Console -> Messaging -> Try it out -> Send a WhatsApp message.
-2. Under "Sandbox settings", paste your ngrok URL into the "WHEN A MESSAGE COMES IN" field and add `/twilio/webhook` to the end.
+1.  Go to your Twilio Console -> Messaging -> Try it out -> Send a WhatsApp message.
+2.  Under "Sandbox settings", paste your ngrok URL into the "WHEN A MESSAGE COMES IN" field and add `/twilio/webhook` to the end.
    *(Example: `https://xxxx.ngrok-free.app/twilio/webhook`)*
-3. Save the settings.
+3.  Save the settings.
 
 ## 📱 Testing the Bot
 
